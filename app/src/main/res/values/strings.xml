@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="feedback">Feedback</string>
+    <string-array name="spinner_items">
+        <item>All List</item>
+        <item>Default</item>
+        <item>Birthday</item>
+        <item>Personal</item>
+        <item>Shopping</item>
+        <item>Wishlist</item>
+        <item>Work</item>
+    </string-array>
+</resources>
